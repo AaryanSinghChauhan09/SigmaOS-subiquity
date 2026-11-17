@@ -3,7 +3,7 @@ name = "SigmaOS-subiquity"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "subiquity component"
+description = "Subiquity"
 upstream = []
 
 [contract]
